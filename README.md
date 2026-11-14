@@ -11,3 +11,4 @@
 
 ## Materiały dodatkowe:
 18.10 notatka z prezentacji na gemini notebook [click here](https://notebook.google.com/notebook/09bf8a96-3ef7-4ab5-ac8e-da27346321a9)
+18.10 [Pobierz materiały dodatkowe (ZIP)](./Materialy%20z%20zaj%C4%99%C4%87%2C%20materia%C5%82y%20dodatkowe-20261018.zip)
